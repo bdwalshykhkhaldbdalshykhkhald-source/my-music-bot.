@@ -1,0 +1,5 @@
+pyrogram
+py-tgcalls
+tgcrypto
+yt-dlp
+requests
